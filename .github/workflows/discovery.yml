@@ -6,7 +6,7 @@ env:
   API_HOST: ap-south-a.apiconnect.automation.ibm.com
   PLATFORM_API_PREFIX: platform-api
   PROVIDER_ORG: api-connect-rs
-  API_FILES: Order-2.0.0.yaml  # Update this path to your actual API files
+  API_FILES: Device_API-1.0.0.yaml  # Update this path to your actual API files
  
 jobs:
   run-discovery:
